@@ -52,15 +52,6 @@ A pizza business needs to know how it is performing over the year, which product
 
 Both pages have page-navigation buttons so users can move between them.
 
----
-
-## 🖼️ Dashboard Preview
-
-### Home – Sales Performance
-![Home page](images/home.png)
-
-### Best / Worst Sellers
-![Best and Worst Sellers page](images/best_worst_sellers.png)
 
 ---
 
