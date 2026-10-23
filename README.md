@@ -20,6 +20,14 @@ A pizza business needs to know how it is performing over the year, which product
 ## 📊 Dashboard Pages
 
 ### 1. Home – Sales Performance
+<img width="1342" height="748" alt="home" src="https://github.com/user-attachments/assets/3700a081-493c-4315-9701-cd0e58ec34bb" />
+
+
+
+
+
+
+
 | Visual | What it shows |
 |---|---|
 | KPI cards | Total Revenue, Total Orders, Total Pizzas Sold, Average Order Value, Average Pizzas per Order |
