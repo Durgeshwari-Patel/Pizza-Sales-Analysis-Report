@@ -137,5 +137,5 @@ The report uses one table, `pizza_sales`, with these fields:
 **Durgeshwari Patel**
 Aspiring Data Analyst | SQL · Power BI · Python
 
-- 📧 durgeshwaripatel1811@gmail.com
+- 📧 durgeshwaripatel1118@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/durgeshwari-patel-18112771pp)
