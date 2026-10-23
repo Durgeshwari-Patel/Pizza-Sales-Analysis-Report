@@ -39,6 +39,9 @@ A pizza business needs to know how it is performing over the year, which product
 | Slicers | Order date range and pizza category |
 
 ### 2. Best / Worst Sellers
+<img width="1307" height="736" alt="best_worst_sellers" src="https://github.com/user-attachments/assets/828a9207-be2f-4aa2-9a84-d6a39affe929" />
+
+
 | Visual | What it shows |
 |---|---|
 | Top 5 / Bottom 5 bar charts | Pizzas ranked by **Total Revenue** |
